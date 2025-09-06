@@ -1,0 +1,1 @@
+# SQL en entornos analíticos
